@@ -1,0 +1,6 @@
+model,cv_rmse_mean,cv_rmse_std
+"RF best {'model__max_depth': 20, 'model__min_samples_split': 10, 'model__n_estimators': 50}",0.438696050940018,
+Ridge best {'model__alpha': 0.1},0.47691408170802363,
+LinearRegression,0.4798892357162575,0.0023703881862932557
+Lasso best {'model__alpha': 0.0005},0.5720296730996299,
+Baseline (median),0.9127237002192292,0.001787679376164498
